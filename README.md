@@ -16,25 +16,25 @@ https://github.com/ManjinderUNCC/project3-DSBA6188/blob/main/firstStep_file.json
 
 ## Second Step:
 https://github.com/ManjinderUNCC/project3-DSBA6188/blob/main/secondStep-score.py
-Trained a text classification model
+<br> Trained a text classification model
 
 ## Second Step Output:
 https://github.com/ManjinderUNCC/project3-DSBA6188/tree/main/my_trained_model
 
 ## Third Step:
 https://github.com/ManjinderUNCC/project3-DSBA6188/blob/main/thirdStep-label.py
-pre-trained classification model using spaCy and and through each JSONL line applying the model to predict the labels
+<br> Pre-trained classification model using spaCy and and through each JSONL line applying the model to predict the labels
 
 ## Third Step Output:
 https://github.com/ManjinderUNCC/project3-DSBA6188/blob/main/thirdStep_file.jsonl
 
 ## Final Step:
- Transform the classified data to another format based on the threshold.
+Transform the classified data to another format based on the threshold.
  
 ## Final Step Output: (Weakly Label Data)
 https://github.com/ManjinderUNCC/project3-DSBA6188/blob/main/finalStep-formatLabel.py
 
 ## Number 5 (Reproducible Inference Examples)
 https://github.com/ManjinderUNCC/project3-DSBA6188/blob/main/five_examples_annotated.ipynb
-JSONL FIle: https://github.com/ManjinderUNCC/project3-DSBA6188/blob/main/five_examples_annotated5.jsonl
+<br> JSONL FIle: https://github.com/ManjinderUNCC/project3-DSBA6188/blob/main/five_examples_annotated5.jsonl
 
