@@ -6,6 +6,9 @@ https://github.com/ManjinderUNCC/project3-DSBA6188/blob/main/Project%20Milestone
 Terminal Code:
 https://github.com/ManjinderUNCC/project3-DSBA6188/blob/main/Project3TerminalCode.txt
 
+## Eval File
+https://github.com/ManjinderUNCC/project3-DSBA6188/blob/main/goldenEval.jsonl
+
 ## First Step:
 https://github.com/ManjinderUNCC/project3-DSBA6188/blob/main/firstStep-format.py
 <br> After getting those 200 labels, I had to format them in a way that spaCy could read them. I want
